@@ -1,4 +1,5 @@
 pyttsx3
+SpeechRecognition
 datetime
 wikipedia
 webbrowser
